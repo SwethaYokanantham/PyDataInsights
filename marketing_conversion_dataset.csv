@@ -1,0 +1,1001 @@
+customer_id,channel,spend,conversion,region,age_group,time_of_day
+CUST1000,Search Ads,186.76,1,South,35-44,Night
+CUST1001,Referral,115.2,0,South,55+,Evening
+CUST1002,Social Media,140.85,0,West,25-34,Morning
+CUST1003,Referral,184.89,0,West,55+,Night
+CUST1004,Referral,142.91,1,East,18-24,Night
+CUST1005,SMS,34.75,1,Central,35-44,Night
+CUST1006,Social Media,117.38,0,East,25-34,Night
+CUST1007,Social Media,123.31,0,Central,35-44,Morning
+CUST1008,Social Media,87.71,0,South,35-44,Night
+CUST1009,Referral,148.61,1,North,45-54,Afternoon
+CUST1010,Search Ads,187.2,0,East,18-24,Morning
+CUST1011,Social Media,185.49,0,East,35-44,Afternoon
+CUST1012,Referral,92.91,0,Central,55+,Night
+CUST1013,SMS,27.08,0,South,55+,Evening
+CUST1014,Search Ads,197.04,0,South,45-54,Afternoon
+CUST1015,SMS,168.59,1,Central,18-24,Night
+CUST1016,Search Ads,29.31,0,South,18-24,Afternoon
+CUST1017,Referral,184.56,0,West,55+,Night
+CUST1018,Email,174.63,0,North,25-34,Night
+CUST1019,Search Ads,106.17,1,East,45-54,Night
+CUST1020,SMS,120.3,0,North,45-54,Evening
+CUST1021,Referral,82.81,1,East,55+,Afternoon
+CUST1022,Search Ads,15.68,0,West,55+,Morning
+CUST1023,Email,70.36,0,South,25-34,Morning
+CUST1024,Email,161.56,0,Central,25-34,Morning
+CUST1025,Social Media,5.9,0,West,18-24,Morning
+CUST1026,Social Media,70.03,0,North,45-54,Night
+CUST1027,SMS,82.64,1,Central,45-54,Afternoon
+CUST1028,Search Ads,109.79,0,South,55+,Afternoon
+CUST1029,Search Ads,184.37,0,West,18-24,Evening
+CUST1030,Social Media,72.54,0,Central,45-54,Afternoon
+CUST1031,Search Ads,72.66,1,West,18-24,Afternoon
+CUST1032,Search Ads,148.81,1,West,18-24,Afternoon
+CUST1033,Email,93.18,0,South,55+,Evening
+CUST1034,Social Media,48.8,1,East,18-24,Morning
+CUST1035,Referral,93.23,0,Central,25-34,Afternoon
+CUST1036,Social Media,32.47,0,South,25-34,Evening
+CUST1037,Referral,39.4,1,West,35-44,Evening
+CUST1038,Email,102.18,1,South,55+,Night
+CUST1039,SMS,86.69,0,East,35-44,Evening
+CUST1040,Search Ads,183.39,0,Central,25-34,Morning
+CUST1041,Email,75.67,0,East,35-44,Afternoon
+CUST1042,Search Ads,118.21,1,North,55+,Evening
+CUST1043,SMS,128.29,0,Central,55+,Morning
+CUST1044,SMS,7.55,0,East,18-24,Evening
+CUST1045,Email,134.39,0,West,45-54,Evening
+CUST1046,SMS,39.72,0,Central,18-24,Evening
+CUST1047,Referral,192.41,0,Central,55+,Evening
+CUST1048,SMS,33.99,1,South,25-34,Evening
+CUST1049,Search Ads,85.85,0,West,25-34,Morning
+CUST1050,Search Ads,21.64,0,North,18-24,Afternoon
+CUST1051,Search Ads,199.39,0,East,55+,Afternoon
+CUST1052,Search Ads,102.93,1,South,25-34,Afternoon
+CUST1053,Referral,121.1,0,East,55+,Afternoon
+CUST1054,Social Media,18.08,0,North,25-34,Morning
+CUST1055,Email,151.24,1,North,55+,Night
+CUST1056,Search Ads,45.93,1,Central,35-44,Night
+CUST1057,SMS,180.12,1,North,55+,Morning
+CUST1058,Search Ads,45.0,1,East,55+,Morning
+CUST1059,SMS,42.18,0,West,18-24,Evening
+CUST1060,SMS,12.13,1,West,35-44,Evening
+CUST1061,Search Ads,97.05,0,Central,45-54,Evening
+CUST1062,Referral,115.14,1,East,18-24,Afternoon
+CUST1063,SMS,17.81,1,East,45-54,Evening
+CUST1064,SMS,156.23,1,North,25-34,Night
+CUST1065,Search Ads,93.39,0,East,45-54,Afternoon
+CUST1066,SMS,107.26,0,South,55+,Evening
+CUST1067,SMS,90.95,0,North,45-54,Afternoon
+CUST1068,Search Ads,83.15,1,South,18-24,Night
+CUST1069,Search Ads,114.13,1,Central,18-24,Evening
+CUST1070,Email,35.27,0,West,45-54,Night
+CUST1071,Referral,40.48,0,Central,18-24,Night
+CUST1072,Referral,173.05,0,West,18-24,Night
+CUST1073,SMS,189.49,1,Central,45-54,Evening
+CUST1074,Referral,77.8,1,East,35-44,Morning
+CUST1075,SMS,57.8,0,South,35-44,Evening
+CUST1076,Email,130.58,0,West,25-34,Night
+CUST1077,Search Ads,84.7,1,North,18-24,Evening
+CUST1078,Search Ads,9.95,1,South,45-54,Night
+CUST1079,Search Ads,35.45,0,North,18-24,Morning
+CUST1080,Referral,144.61,0,South,55+,Afternoon
+CUST1081,Email,133.49,0,South,18-24,Morning
+CUST1082,Referral,10.28,0,Central,18-24,Morning
+CUST1083,Referral,48.28,0,West,35-44,Afternoon
+CUST1084,Email,50.06,0,West,45-54,Evening
+CUST1085,Email,136.02,1,South,18-24,Afternoon
+CUST1086,Email,8.84,0,East,35-44,Evening
+CUST1087,Email,25.3,1,East,25-34,Evening
+CUST1088,Search Ads,160.98,0,North,35-44,Night
+CUST1089,Social Media,39.82,0,North,35-44,Night
+CUST1090,Social Media,132.29,0,Central,35-44,Afternoon
+CUST1091,Email,51.45,0,South,18-24,Morning
+CUST1092,Social Media,24.39,1,North,18-24,Afternoon
+CUST1093,Social Media,52.42,1,North,25-34,Evening
+CUST1094,Email,145.84,0,South,55+,Night
+CUST1095,Social Media,171.86,0,Central,55+,Afternoon
+CUST1096,Referral,166.89,1,North,55+,Afternoon
+CUST1097,SMS,82.45,0,Central,25-34,Night
+CUST1098,SMS,135.28,0,West,55+,Night
+CUST1099,Email,44.97,1,Central,55+,Night
+CUST1100,Search Ads,62.16,0,East,35-44,Evening
+CUST1101,Email,179.79,0,East,18-24,Night
+CUST1102,Search Ads,7.54,0,Central,18-24,Morning
+CUST1103,SMS,21.67,1,East,35-44,Afternoon
+CUST1104,Email,45.54,0,West,35-44,Night
+CUST1105,Referral,10.17,0,South,35-44,Night
+CUST1106,Social Media,40.38,1,East,18-24,Evening
+CUST1107,Search Ads,118.69,0,East,55+,Evening
+CUST1108,Social Media,87.18,1,Central,35-44,Afternoon
+CUST1109,Social Media,179.07,0,West,25-34,Morning
+CUST1110,Email,164.4,1,South,35-44,Afternoon
+CUST1111,Social Media,71.65,0,Central,45-54,Night
+CUST1112,Referral,55.59,0,Central,35-44,Morning
+CUST1113,Social Media,79.04,0,West,18-24,Morning
+CUST1114,Email,120.11,0,South,35-44,Morning
+CUST1115,Referral,57.27,1,West,45-54,Morning
+CUST1116,SMS,126.71,1,South,25-34,Afternoon
+CUST1117,Social Media,84.84,0,West,55+,Evening
+CUST1118,Email,112.65,0,Central,35-44,Evening
+CUST1119,SMS,90.04,1,Central,45-54,Night
+CUST1120,SMS,62.42,1,North,45-54,Evening
+CUST1121,Search Ads,189.95,0,East,25-34,Evening
+CUST1122,Referral,153.9,0,West,18-24,Evening
+CUST1123,Social Media,32.32,0,North,35-44,Evening
+CUST1124,Email,174.35,0,East,45-54,Night
+CUST1125,Search Ads,100.05,0,West,25-34,Afternoon
+CUST1126,Referral,179.44,0,South,55+,Morning
+CUST1127,Search Ads,160.97,0,East,45-54,Evening
+CUST1128,Referral,87.92,1,Central,25-34,Afternoon
+CUST1129,Referral,9.38,0,North,18-24,Evening
+CUST1130,Social Media,57.39,0,East,18-24,Evening
+CUST1131,Referral,110.62,0,East,45-54,Morning
+CUST1132,Search Ads,128.53,0,Central,45-54,Morning
+CUST1133,Referral,55.29,0,West,35-44,Morning
+CUST1134,Social Media,32.17,0,South,25-34,Evening
+CUST1135,Social Media,167.81,0,Central,45-54,Evening
+CUST1136,Search Ads,196.96,0,South,35-44,Evening
+CUST1137,SMS,107.51,0,West,35-44,Morning
+CUST1138,SMS,38.48,0,East,45-54,Night
+CUST1139,Referral,58.1,1,South,18-24,Afternoon
+CUST1140,Email,8.59,0,North,25-34,Night
+CUST1141,Referral,183.29,1,North,25-34,Evening
+CUST1142,Search Ads,27.96,0,Central,18-24,Evening
+CUST1143,Search Ads,117.42,0,West,45-54,Night
+CUST1144,Search Ads,58.44,0,Central,25-34,Evening
+CUST1145,Search Ads,113.06,0,Central,45-54,Afternoon
+CUST1146,Search Ads,132.03,1,Central,45-54,Evening
+CUST1147,Social Media,166.8,1,North,35-44,Afternoon
+CUST1148,SMS,45.25,1,North,18-24,Night
+CUST1149,Search Ads,7.14,0,Central,45-54,Night
+CUST1150,Email,31.69,0,North,55+,Evening
+CUST1151,Email,180.5,0,West,18-24,Afternoon
+CUST1152,Email,175.41,0,Central,25-34,Evening
+CUST1153,Email,121.5,0,North,35-44,Morning
+CUST1154,Social Media,122.1,0,South,25-34,Morning
+CUST1155,Email,134.68,0,Central,25-34,Morning
+CUST1156,Search Ads,39.2,0,Central,18-24,Morning
+CUST1157,Referral,183.31,1,West,25-34,Evening
+CUST1158,Email,86.66,1,East,45-54,Morning
+CUST1159,Social Media,79.71,1,East,25-34,Afternoon
+CUST1160,Social Media,106.19,0,West,35-44,Night
+CUST1161,Email,14.16,0,West,35-44,Night
+CUST1162,Referral,37.43,0,West,55+,Morning
+CUST1163,Email,148.92,1,East,35-44,Morning
+CUST1164,Social Media,21.15,0,West,25-34,Morning
+CUST1165,SMS,122.61,0,North,35-44,Evening
+CUST1166,Search Ads,52.84,1,Central,18-24,Night
+CUST1167,Social Media,80.91,0,Central,35-44,Morning
+CUST1168,Email,61.3,0,South,45-54,Afternoon
+CUST1169,Search Ads,74.36,0,South,18-24,Morning
+CUST1170,Email,145.21,0,Central,55+,Night
+CUST1171,Email,62.94,0,North,45-54,Morning
+CUST1172,SMS,115.45,0,East,25-34,Night
+CUST1173,Search Ads,97.83,0,East,25-34,Morning
+CUST1174,Search Ads,134.42,0,North,25-34,Afternoon
+CUST1175,SMS,187.68,1,East,45-54,Morning
+CUST1176,Social Media,147.85,0,West,45-54,Afternoon
+CUST1177,Email,46.91,0,Central,45-54,Afternoon
+CUST1178,Referral,11.08,0,Central,18-24,Morning
+CUST1179,Email,56.14,1,North,18-24,Afternoon
+CUST1180,Email,121.04,0,East,25-34,Evening
+CUST1181,Social Media,15.03,0,South,35-44,Morning
+CUST1182,Email,101.79,1,South,25-34,Morning
+CUST1183,SMS,121.38,1,East,55+,Afternoon
+CUST1184,SMS,70.18,0,South,18-24,Afternoon
+CUST1185,Search Ads,155.33,1,North,45-54,Morning
+CUST1186,Referral,25.79,0,North,18-24,Evening
+CUST1187,Email,19.65,0,East,45-54,Afternoon
+CUST1188,Email,147.0,0,South,55+,Afternoon
+CUST1189,Social Media,101.62,0,North,55+,Night
+CUST1190,SMS,139.24,1,North,18-24,Evening
+CUST1191,Referral,89.79,0,West,45-54,Evening
+CUST1192,Search Ads,53.05,0,West,55+,Morning
+CUST1193,SMS,164.72,1,North,25-34,Evening
+CUST1194,Search Ads,160.89,1,East,25-34,Morning
+CUST1195,Social Media,140.47,0,Central,45-54,Night
+CUST1196,Social Media,58.07,0,Central,18-24,Evening
+CUST1197,Email,120.09,0,North,55+,Afternoon
+CUST1198,Referral,75.39,1,North,18-24,Night
+CUST1199,Search Ads,22.86,0,North,25-34,Morning
+CUST1200,SMS,183.88,1,East,55+,Night
+CUST1201,Social Media,31.68,0,West,18-24,Morning
+CUST1202,Email,190.3,0,North,35-44,Night
+CUST1203,Email,91.97,0,North,45-54,Morning
+CUST1204,Search Ads,41.1,0,South,45-54,Evening
+CUST1205,Social Media,110.67,0,East,35-44,Afternoon
+CUST1206,Referral,175.22,1,North,25-34,Morning
+CUST1207,Social Media,147.78,0,South,55+,Night
+CUST1208,Search Ads,162.28,0,Central,45-54,Morning
+CUST1209,Search Ads,133.46,1,North,35-44,Morning
+CUST1210,Social Media,139.99,0,North,35-44,Morning
+CUST1211,Search Ads,170.59,1,South,25-34,Night
+CUST1212,Social Media,53.69,0,East,25-34,Afternoon
+CUST1213,SMS,100.44,0,North,18-24,Evening
+CUST1214,Social Media,48.14,0,Central,45-54,Afternoon
+CUST1215,Social Media,197.6,0,North,18-24,Morning
+CUST1216,Search Ads,189.09,1,Central,35-44,Night
+CUST1217,Search Ads,12.69,0,West,55+,Afternoon
+CUST1218,Email,142.59,0,West,55+,Morning
+CUST1219,Email,185.42,0,Central,25-34,Evening
+CUST1220,SMS,40.21,0,East,55+,Evening
+CUST1221,Email,115.75,1,North,55+,Evening
+CUST1222,Social Media,183.52,0,North,55+,Morning
+CUST1223,Search Ads,11.62,0,West,35-44,Night
+CUST1224,Email,141.0,1,Central,55+,Afternoon
+CUST1225,Email,62.98,0,North,55+,Evening
+CUST1226,SMS,185.26,1,North,55+,Morning
+CUST1227,SMS,194.36,0,East,18-24,Morning
+CUST1228,Social Media,189.13,0,South,35-44,Afternoon
+CUST1229,Search Ads,97.47,0,West,25-34,Evening
+CUST1230,SMS,173.1,1,West,18-24,Morning
+CUST1231,Email,169.69,1,South,45-54,Afternoon
+CUST1232,Search Ads,67.22,0,North,35-44,Night
+CUST1233,Search Ads,166.64,0,East,35-44,Night
+CUST1234,Email,12.22,0,East,45-54,Night
+CUST1235,SMS,121.27,0,West,45-54,Evening
+CUST1236,Email,49.85,0,East,45-54,Afternoon
+CUST1237,Search Ads,28.51,1,South,25-34,Afternoon
+CUST1238,Referral,20.01,0,North,55+,Morning
+CUST1239,Referral,140.78,0,South,35-44,Morning
+CUST1240,Social Media,71.28,0,Central,55+,Morning
+CUST1241,Email,146.33,0,West,55+,Afternoon
+CUST1242,Email,17.74,0,East,45-54,Morning
+CUST1243,Social Media,66.48,0,Central,25-34,Afternoon
+CUST1244,Social Media,110.2,1,East,18-24,Afternoon
+CUST1245,Social Media,159.19,0,North,25-34,Night
+CUST1246,Search Ads,67.16,0,North,55+,Morning
+CUST1247,Email,127.05,0,North,25-34,Night
+CUST1248,Search Ads,177.77,1,East,45-54,Evening
+CUST1249,Social Media,125.09,1,Central,18-24,Evening
+CUST1250,Email,50.43,0,North,45-54,Evening
+CUST1251,Search Ads,9.76,1,Central,18-24,Afternoon
+CUST1252,Search Ads,174.67,0,East,55+,Afternoon
+CUST1253,Social Media,9.15,0,Central,18-24,Afternoon
+CUST1254,Email,175.57,0,East,18-24,Morning
+CUST1255,Social Media,108.14,0,East,18-24,Night
+CUST1256,Email,188.12,0,West,25-34,Afternoon
+CUST1257,Referral,160.76,1,East,25-34,Night
+CUST1258,SMS,199.6,1,East,55+,Night
+CUST1259,SMS,73.39,0,South,18-24,Night
+CUST1260,SMS,154.6,0,North,35-44,Morning
+CUST1261,Social Media,83.38,0,West,55+,Morning
+CUST1262,Referral,98.58,0,West,18-24,Evening
+CUST1263,Email,127.36,0,West,18-24,Evening
+CUST1264,Search Ads,175.37,0,South,25-34,Night
+CUST1265,Email,196.9,0,East,55+,Evening
+CUST1266,Search Ads,154.81,1,North,18-24,Night
+CUST1267,Email,86.46,0,Central,18-24,Morning
+CUST1268,Referral,87.16,0,East,55+,Morning
+CUST1269,Search Ads,148.83,1,South,35-44,Morning
+CUST1270,Social Media,51.56,0,East,55+,Afternoon
+CUST1271,Email,26.54,0,East,55+,Night
+CUST1272,Email,74.15,0,South,35-44,Morning
+CUST1273,Search Ads,61.01,0,West,55+,Night
+CUST1274,Social Media,62.78,1,West,18-24,Evening
+CUST1275,Social Media,50.55,0,North,55+,Evening
+CUST1276,Referral,13.21,0,North,35-44,Morning
+CUST1277,Social Media,8.49,1,West,45-54,Night
+CUST1278,Social Media,197.61,1,Central,55+,Morning
+CUST1279,Social Media,88.42,1,East,25-34,Evening
+CUST1280,SMS,79.94,0,Central,18-24,Morning
+CUST1281,Referral,137.53,0,East,18-24,Night
+CUST1282,Email,47.56,1,West,25-34,Evening
+CUST1283,Search Ads,190.24,1,North,25-34,Afternoon
+CUST1284,Email,158.34,0,North,55+,Evening
+CUST1285,Referral,22.44,0,Central,25-34,Afternoon
+CUST1286,Search Ads,86.43,0,North,45-54,Morning
+CUST1287,Referral,176.43,1,West,35-44,Morning
+CUST1288,Social Media,189.22,0,Central,25-34,Night
+CUST1289,Search Ads,96.14,0,East,25-34,Afternoon
+CUST1290,Social Media,124.62,0,North,45-54,Morning
+CUST1291,Email,37.57,0,South,18-24,Afternoon
+CUST1292,Email,198.28,1,North,18-24,Morning
+CUST1293,Search Ads,50.18,0,East,55+,Evening
+CUST1294,Search Ads,188.83,1,Central,45-54,Morning
+CUST1295,Referral,131.68,1,East,35-44,Night
+CUST1296,Referral,123.51,0,South,35-44,Evening
+CUST1297,Social Media,104.97,0,West,45-54,Night
+CUST1298,Search Ads,49.98,0,North,35-44,Evening
+CUST1299,Email,39.42,1,Central,18-24,Afternoon
+CUST1300,Referral,47.99,0,West,35-44,Night
+CUST1301,Referral,41.36,0,East,35-44,Morning
+CUST1302,Email,157.02,1,Central,45-54,Afternoon
+CUST1303,Referral,73.27,0,West,45-54,Morning
+CUST1304,Social Media,16.28,1,Central,35-44,Evening
+CUST1305,Search Ads,193.98,0,South,25-34,Evening
+CUST1306,Email,177.34,0,South,45-54,Morning
+CUST1307,Search Ads,185.91,0,North,55+,Morning
+CUST1308,Referral,199.01,1,North,55+,Afternoon
+CUST1309,Referral,38.91,0,South,18-24,Morning
+CUST1310,Email,82.27,1,Central,35-44,Night
+CUST1311,Social Media,152.86,1,South,25-34,Night
+CUST1312,SMS,140.72,0,North,18-24,Morning
+CUST1313,Email,35.01,1,South,35-44,Night
+CUST1314,SMS,164.09,0,South,45-54,Morning
+CUST1315,SMS,48.77,0,Central,55+,Afternoon
+CUST1316,Social Media,48.64,0,West,25-34,Night
+CUST1317,SMS,109.71,1,North,55+,Night
+CUST1318,SMS,120.62,0,Central,45-54,Morning
+CUST1319,Social Media,118.12,0,South,35-44,Night
+CUST1320,SMS,22.84,0,South,45-54,Evening
+CUST1321,SMS,176.1,0,West,45-54,Afternoon
+CUST1322,SMS,56.79,0,North,55+,Afternoon
+CUST1323,Email,30.26,1,North,25-34,Night
+CUST1324,Email,178.31,1,East,45-54,Night
+CUST1325,Email,191.35,0,North,55+,Evening
+CUST1326,Social Media,173.11,1,West,25-34,Evening
+CUST1327,Referral,162.86,0,East,35-44,Night
+CUST1328,SMS,132.77,1,East,35-44,Night
+CUST1329,SMS,112.42,0,South,18-24,Evening
+CUST1330,Social Media,21.96,0,South,55+,Morning
+CUST1331,SMS,84.65,0,North,25-34,Evening
+CUST1332,Email,77.67,1,East,45-54,Morning
+CUST1333,Referral,55.65,0,South,35-44,Afternoon
+CUST1334,Search Ads,146.07,0,West,25-34,Afternoon
+CUST1335,SMS,101.7,0,South,55+,Evening
+CUST1336,Email,20.8,0,South,18-24,Morning
+CUST1337,Search Ads,47.94,0,East,35-44,Evening
+CUST1338,Referral,138.24,1,East,25-34,Evening
+CUST1339,Search Ads,19.85,1,Central,25-34,Morning
+CUST1340,Email,170.99,0,West,25-34,Evening
+CUST1341,Search Ads,101.55,1,East,55+,Afternoon
+CUST1342,Social Media,98.71,0,North,55+,Night
+CUST1343,Search Ads,120.52,1,West,55+,Night
+CUST1344,SMS,165.81,1,West,45-54,Evening
+CUST1345,SMS,72.82,0,East,25-34,Morning
+CUST1346,Social Media,137.21,1,West,35-44,Morning
+CUST1347,Email,115.32,0,East,55+,Afternoon
+CUST1348,SMS,57.07,0,South,55+,Morning
+CUST1349,Referral,176.33,1,Central,25-34,Morning
+CUST1350,SMS,160.5,0,South,55+,Afternoon
+CUST1351,SMS,133.4,0,East,45-54,Evening
+CUST1352,Email,170.86,0,East,45-54,Night
+CUST1353,Search Ads,174.12,1,South,55+,Afternoon
+CUST1354,SMS,143.13,0,North,25-34,Evening
+CUST1355,Social Media,168.22,0,North,25-34,Afternoon
+CUST1356,Search Ads,141.01,1,North,25-34,Evening
+CUST1357,Referral,137.63,1,East,18-24,Afternoon
+CUST1358,Email,125.63,0,West,55+,Evening
+CUST1359,Referral,151.78,0,East,25-34,Afternoon
+CUST1360,Search Ads,35.93,0,West,45-54,Evening
+CUST1361,Search Ads,176.77,0,South,35-44,Afternoon
+CUST1362,Search Ads,175.01,0,Central,35-44,Night
+CUST1363,Referral,10.7,1,West,25-34,Night
+CUST1364,Search Ads,166.03,0,North,35-44,Morning
+CUST1365,Referral,30.13,0,East,35-44,Evening
+CUST1366,Search Ads,70.35,0,South,18-24,Afternoon
+CUST1367,Social Media,149.98,1,North,45-54,Evening
+CUST1368,Search Ads,36.35,0,South,45-54,Night
+CUST1369,Referral,164.5,1,Central,18-24,Evening
+CUST1370,SMS,167.27,0,East,18-24,Afternoon
+CUST1371,Search Ads,103.96,0,East,35-44,Evening
+CUST1372,SMS,6.25,0,Central,55+,Afternoon
+CUST1373,Social Media,60.97,0,East,35-44,Night
+CUST1374,Email,125.3,0,West,18-24,Night
+CUST1375,Social Media,196.33,0,South,45-54,Night
+CUST1376,Search Ads,128.2,0,North,35-44,Morning
+CUST1377,SMS,55.66,1,Central,55+,Night
+CUST1378,SMS,128.63,0,West,35-44,Evening
+CUST1379,Referral,110.3,1,North,25-34,Morning
+CUST1380,SMS,157.07,0,North,35-44,Night
+CUST1381,Referral,25.86,0,Central,18-24,Evening
+CUST1382,Email,153.4,0,West,45-54,Evening
+CUST1383,Search Ads,110.55,0,North,45-54,Evening
+CUST1384,Referral,192.78,0,North,18-24,Afternoon
+CUST1385,Email,71.67,0,West,25-34,Morning
+CUST1386,SMS,128.36,0,East,18-24,Evening
+CUST1387,SMS,186.75,0,North,35-44,Afternoon
+CUST1388,Email,24.99,0,South,18-24,Night
+CUST1389,SMS,187.76,1,West,18-24,Evening
+CUST1390,Email,139.14,1,North,25-34,Afternoon
+CUST1391,Referral,18.23,1,Central,35-44,Evening
+CUST1392,Referral,63.69,1,South,55+,Morning
+CUST1393,Email,143.09,0,North,55+,Morning
+CUST1394,Referral,18.13,0,South,45-54,Night
+CUST1395,Referral,118.52,1,South,18-24,Evening
+CUST1396,Referral,72.45,0,East,45-54,Afternoon
+CUST1397,Social Media,126.08,0,South,25-34,Night
+CUST1398,Search Ads,13.92,0,East,55+,Evening
+CUST1399,SMS,174.95,0,West,18-24,Night
+CUST1400,Social Media,194.83,0,East,25-34,Afternoon
+CUST1401,Referral,193.93,1,Central,25-34,Night
+CUST1402,Email,151.18,0,North,18-24,Night
+CUST1403,Referral,30.37,0,West,25-34,Night
+CUST1404,Search Ads,152.86,1,West,18-24,Evening
+CUST1405,Referral,9.79,0,Central,18-24,Afternoon
+CUST1406,Email,9.31,0,East,35-44,Morning
+CUST1407,Search Ads,68.1,0,North,45-54,Evening
+CUST1408,Referral,100.29,1,East,25-34,Morning
+CUST1409,Search Ads,155.23,1,South,25-34,Morning
+CUST1410,SMS,138.24,0,East,35-44,Evening
+CUST1411,SMS,91.95,1,West,35-44,Evening
+CUST1412,Referral,58.36,0,North,35-44,Afternoon
+CUST1413,Search Ads,199.44,1,East,55+,Afternoon
+CUST1414,Email,88.11,1,North,55+,Night
+CUST1415,Referral,93.02,1,North,55+,Morning
+CUST1416,SMS,36.91,0,South,18-24,Afternoon
+CUST1417,SMS,159.99,1,South,25-34,Night
+CUST1418,Referral,140.27,1,West,45-54,Afternoon
+CUST1419,Search Ads,48.05,0,Central,18-24,Evening
+CUST1420,SMS,21.06,1,North,25-34,Afternoon
+CUST1421,Search Ads,137.7,0,Central,25-34,Morning
+CUST1422,SMS,132.63,1,West,35-44,Afternoon
+CUST1423,SMS,58.29,0,North,35-44,Morning
+CUST1424,Social Media,190.42,1,North,18-24,Evening
+CUST1425,SMS,34.46,0,Central,35-44,Morning
+CUST1426,Email,89.31,0,East,25-34,Afternoon
+CUST1427,Referral,189.01,0,South,35-44,Night
+CUST1428,Referral,86.85,0,East,55+,Evening
+CUST1429,Search Ads,129.51,0,Central,35-44,Afternoon
+CUST1430,SMS,82.53,0,South,25-34,Evening
+CUST1431,Email,58.47,0,East,18-24,Evening
+CUST1432,Search Ads,196.88,0,South,45-54,Afternoon
+CUST1433,Social Media,84.82,0,North,35-44,Afternoon
+CUST1434,Search Ads,179.35,1,East,25-34,Night
+CUST1435,Search Ads,49.84,0,South,45-54,Evening
+CUST1436,SMS,46.56,1,South,45-54,Evening
+CUST1437,Social Media,11.07,1,South,55+,Afternoon
+CUST1438,Search Ads,132.08,0,East,45-54,Morning
+CUST1439,Email,76.86,0,West,25-34,Afternoon
+CUST1440,Email,173.55,1,East,25-34,Evening
+CUST1441,Referral,97.28,0,Central,35-44,Afternoon
+CUST1442,Social Media,193.8,0,East,35-44,Night
+CUST1443,Social Media,41.18,0,South,35-44,Morning
+CUST1444,Referral,174.38,1,North,45-54,Afternoon
+CUST1445,Search Ads,156.44,0,East,45-54,Night
+CUST1446,Social Media,155.33,0,East,55+,Evening
+CUST1447,Email,169.73,1,South,35-44,Afternoon
+CUST1448,Email,153.4,1,North,18-24,Evening
+CUST1449,SMS,127.11,0,North,55+,Night
+CUST1450,Social Media,30.59,0,Central,18-24,Evening
+CUST1451,Search Ads,11.34,1,East,45-54,Night
+CUST1452,Referral,184.57,0,North,55+,Night
+CUST1453,Referral,125.25,0,North,55+,Night
+CUST1454,Search Ads,160.32,0,West,25-34,Afternoon
+CUST1455,SMS,98.9,1,West,45-54,Evening
+CUST1456,Referral,27.88,0,North,45-54,Evening
+CUST1457,Social Media,29.41,1,Central,55+,Morning
+CUST1458,SMS,138.69,1,North,45-54,Morning
+CUST1459,Social Media,88.91,0,South,55+,Morning
+CUST1460,Email,44.1,0,East,25-34,Morning
+CUST1461,SMS,100.86,0,Central,55+,Evening
+CUST1462,Referral,17.52,0,South,45-54,Night
+CUST1463,SMS,118.48,0,Central,45-54,Night
+CUST1464,SMS,57.45,1,South,55+,Afternoon
+CUST1465,SMS,160.52,0,East,55+,Night
+CUST1466,SMS,65.52,1,East,55+,Evening
+CUST1467,Social Media,93.77,0,West,35-44,Evening
+CUST1468,Email,7.27,0,South,45-54,Evening
+CUST1469,Search Ads,19.13,0,West,45-54,Afternoon
+CUST1470,SMS,81.54,0,South,35-44,Morning
+CUST1471,Referral,98.59,1,West,55+,Night
+CUST1472,SMS,122.0,0,East,25-34,Evening
+CUST1473,Referral,61.87,0,Central,55+,Evening
+CUST1474,Social Media,140.52,0,West,55+,Morning
+CUST1475,Referral,172.72,0,South,35-44,Evening
+CUST1476,Search Ads,157.07,0,South,45-54,Night
+CUST1477,Email,12.73,0,East,55+,Afternoon
+CUST1478,Referral,98.7,1,South,45-54,Evening
+CUST1479,Referral,25.46,0,North,18-24,Night
+CUST1480,Email,52.2,1,Central,45-54,Evening
+CUST1481,Search Ads,197.4,0,West,25-34,Morning
+CUST1482,SMS,32.79,0,Central,25-34,Evening
+CUST1483,Referral,102.28,0,East,55+,Evening
+CUST1484,Email,125.54,0,West,45-54,Afternoon
+CUST1485,Social Media,141.98,0,West,55+,Morning
+CUST1486,Email,114.13,0,North,35-44,Morning
+CUST1487,Social Media,6.91,0,East,25-34,Afternoon
+CUST1488,Search Ads,68.66,0,South,55+,Evening
+CUST1489,SMS,105.95,0,North,35-44,Night
+CUST1490,Email,22.13,1,North,55+,Morning
+CUST1491,Referral,73.37,0,Central,45-54,Morning
+CUST1492,Search Ads,11.47,0,Central,45-54,Evening
+CUST1493,Email,20.32,0,Central,45-54,Evening
+CUST1494,Referral,82.4,0,North,45-54,Morning
+CUST1495,Email,30.88,0,South,18-24,Evening
+CUST1496,Social Media,115.67,0,West,35-44,Night
+CUST1497,Email,139.45,0,Central,35-44,Morning
+CUST1498,Email,161.11,0,South,45-54,Night
+CUST1499,Email,44.03,0,East,18-24,Night
+CUST1500,Search Ads,37.66,0,Central,45-54,Evening
+CUST1501,Email,25.39,0,West,18-24,Night
+CUST1502,Referral,129.1,0,East,45-54,Evening
+CUST1503,Social Media,142.76,0,East,25-34,Afternoon
+CUST1504,Social Media,11.16,1,West,25-34,Evening
+CUST1505,Email,187.56,0,Central,55+,Night
+CUST1506,Search Ads,15.13,0,North,45-54,Afternoon
+CUST1507,Search Ads,110.55,0,West,35-44,Evening
+CUST1508,Referral,143.27,1,West,55+,Night
+CUST1509,Email,174.84,0,West,25-34,Morning
+CUST1510,Social Media,144.25,0,East,45-54,Morning
+CUST1511,Search Ads,161.34,0,South,55+,Evening
+CUST1512,Email,71.19,0,North,45-54,Evening
+CUST1513,Search Ads,163.89,0,Central,25-34,Morning
+CUST1514,Search Ads,20.62,0,Central,55+,Night
+CUST1515,Social Media,179.49,1,South,25-34,Night
+CUST1516,SMS,111.78,0,West,18-24,Night
+CUST1517,Referral,164.37,1,North,25-34,Evening
+CUST1518,Referral,93.2,1,Central,45-54,Afternoon
+CUST1519,Social Media,130.5,0,Central,35-44,Afternoon
+CUST1520,Search Ads,107.65,0,West,25-34,Afternoon
+CUST1521,Email,147.66,0,South,35-44,Afternoon
+CUST1522,Search Ads,20.92,0,North,18-24,Afternoon
+CUST1523,Social Media,16.77,0,South,55+,Evening
+CUST1524,Referral,53.19,1,South,55+,Evening
+CUST1525,Search Ads,36.11,1,North,35-44,Afternoon
+CUST1526,Referral,175.0,0,North,55+,Evening
+CUST1527,Email,47.75,0,Central,25-34,Evening
+CUST1528,Referral,195.29,1,Central,35-44,Afternoon
+CUST1529,Referral,70.69,1,North,45-54,Night
+CUST1530,SMS,40.51,1,East,25-34,Evening
+CUST1531,SMS,158.99,0,Central,25-34,Night
+CUST1532,SMS,133.45,0,East,25-34,Evening
+CUST1533,Referral,102.15,0,North,45-54,Evening
+CUST1534,Social Media,113.3,0,Central,18-24,Afternoon
+CUST1535,Referral,145.24,0,South,55+,Evening
+CUST1536,Social Media,49.55,0,North,35-44,Morning
+CUST1537,Social Media,199.29,0,West,18-24,Morning
+CUST1538,SMS,195.08,0,East,35-44,Afternoon
+CUST1539,Search Ads,131.81,0,North,55+,Night
+CUST1540,Email,43.91,0,North,45-54,Night
+CUST1541,SMS,137.64,0,Central,25-34,Night
+CUST1542,SMS,19.08,0,Central,25-34,Morning
+CUST1543,Search Ads,10.98,0,Central,45-54,Night
+CUST1544,Email,55.25,1,West,18-24,Night
+CUST1545,Referral,95.21,0,Central,18-24,Afternoon
+CUST1546,Referral,174.31,0,North,35-44,Night
+CUST1547,SMS,146.8,0,Central,45-54,Morning
+CUST1548,Email,149.83,1,South,18-24,Morning
+CUST1549,SMS,87.97,0,Central,45-54,Morning
+CUST1550,Social Media,72.46,0,West,55+,Afternoon
+CUST1551,SMS,77.35,0,South,25-34,Afternoon
+CUST1552,SMS,197.59,0,North,25-34,Evening
+CUST1553,Referral,12.82,0,North,25-34,Night
+CUST1554,Referral,174.07,0,East,45-54,Afternoon
+CUST1555,Referral,117.84,1,South,45-54,Morning
+CUST1556,Social Media,90.53,0,East,35-44,Morning
+CUST1557,Referral,146.43,1,South,25-34,Afternoon
+CUST1558,Email,99.9,1,South,35-44,Afternoon
+CUST1559,Search Ads,175.32,0,West,25-34,Afternoon
+CUST1560,Email,180.64,1,East,35-44,Evening
+CUST1561,Email,87.24,0,West,35-44,Morning
+CUST1562,Referral,58.98,0,South,55+,Evening
+CUST1563,Search Ads,120.51,0,North,35-44,Evening
+CUST1564,Search Ads,182.91,0,South,45-54,Night
+CUST1565,Search Ads,46.08,0,West,35-44,Morning
+CUST1566,Social Media,126.48,0,East,25-34,Morning
+CUST1567,Referral,128.15,0,East,35-44,Afternoon
+CUST1568,Search Ads,147.96,0,West,18-24,Afternoon
+CUST1569,Social Media,30.66,0,East,25-34,Night
+CUST1570,SMS,144.59,0,Central,18-24,Evening
+CUST1571,SMS,182.26,0,North,25-34,Afternoon
+CUST1572,Social Media,40.04,0,North,45-54,Afternoon
+CUST1573,Social Media,51.32,1,North,45-54,Morning
+CUST1574,Referral,194.42,0,East,45-54,Morning
+CUST1575,Referral,40.29,1,East,18-24,Afternoon
+CUST1576,SMS,171.61,0,South,55+,Morning
+CUST1577,Search Ads,100.99,0,South,25-34,Night
+CUST1578,SMS,53.21,0,North,45-54,Afternoon
+CUST1579,Search Ads,174.8,0,Central,25-34,Morning
+CUST1580,Search Ads,91.83,0,South,18-24,Night
+CUST1581,Referral,105.39,1,South,55+,Morning
+CUST1582,Email,75.05,0,East,18-24,Morning
+CUST1583,Email,120.63,1,Central,25-34,Morning
+CUST1584,Social Media,36.89,1,North,55+,Afternoon
+CUST1585,Referral,81.26,1,South,55+,Evening
+CUST1586,Search Ads,194.04,1,Central,18-24,Morning
+CUST1587,Email,55.34,0,Central,45-54,Night
+CUST1588,Search Ads,133.06,0,North,25-34,Afternoon
+CUST1589,Email,68.41,0,Central,35-44,Afternoon
+CUST1590,Email,155.83,0,Central,35-44,Night
+CUST1591,Email,30.52,0,Central,18-24,Morning
+CUST1592,Referral,194.12,1,South,25-34,Evening
+CUST1593,SMS,93.49,0,North,25-34,Morning
+CUST1594,Search Ads,51.03,0,Central,18-24,Night
+CUST1595,Referral,19.33,0,Central,25-34,Afternoon
+CUST1596,Referral,38.1,0,South,45-54,Evening
+CUST1597,Referral,106.36,0,North,18-24,Afternoon
+CUST1598,Referral,70.72,1,East,45-54,Night
+CUST1599,Referral,166.63,0,South,25-34,Morning
+CUST1600,Social Media,89.02,0,North,18-24,Evening
+CUST1601,Search Ads,53.5,0,Central,25-34,Afternoon
+CUST1602,Referral,125.34,0,North,18-24,Afternoon
+CUST1603,Search Ads,142.82,0,North,25-34,Afternoon
+CUST1604,Social Media,37.57,0,North,45-54,Morning
+CUST1605,Social Media,37.69,0,East,45-54,Evening
+CUST1606,Search Ads,12.15,0,North,25-34,Morning
+CUST1607,Email,148.6,0,East,18-24,Morning
+CUST1608,SMS,134.44,0,Central,35-44,Morning
+CUST1609,Email,97.55,0,East,45-54,Night
+CUST1610,Email,169.61,0,Central,45-54,Night
+CUST1611,Email,162.11,0,Central,35-44,Night
+CUST1612,Referral,119.14,1,East,25-34,Evening
+CUST1613,Social Media,174.31,0,South,18-24,Morning
+CUST1614,Email,45.14,0,West,25-34,Morning
+CUST1615,Social Media,26.82,0,North,55+,Night
+CUST1616,Search Ads,57.6,0,West,45-54,Morning
+CUST1617,SMS,16.13,0,North,55+,Morning
+CUST1618,Search Ads,108.58,0,North,45-54,Afternoon
+CUST1619,Search Ads,187.64,1,Central,45-54,Morning
+CUST1620,Referral,12.67,0,North,55+,Afternoon
+CUST1621,SMS,28.81,0,North,55+,Morning
+CUST1622,Search Ads,93.18,0,East,25-34,Evening
+CUST1623,Search Ads,187.11,0,West,55+,Night
+CUST1624,SMS,66.65,0,East,25-34,Afternoon
+CUST1625,SMS,103.91,0,North,25-34,Night
+CUST1626,Search Ads,13.11,1,Central,25-34,Afternoon
+CUST1627,SMS,33.93,0,East,45-54,Afternoon
+CUST1628,Search Ads,197.39,0,East,45-54,Afternoon
+CUST1629,Search Ads,193.2,1,South,55+,Evening
+CUST1630,Referral,5.96,0,North,45-54,Morning
+CUST1631,Email,190.6,1,Central,55+,Afternoon
+CUST1632,Search Ads,129.63,0,East,45-54,Evening
+CUST1633,Social Media,174.24,1,East,18-24,Afternoon
+CUST1634,Email,93.67,0,Central,18-24,Morning
+CUST1635,Email,105.54,1,North,55+,Afternoon
+CUST1636,Email,100.33,1,South,45-54,Evening
+CUST1637,Referral,135.04,0,East,45-54,Morning
+CUST1638,Search Ads,32.23,1,South,25-34,Evening
+CUST1639,Referral,10.84,0,West,35-44,Morning
+CUST1640,Search Ads,65.05,0,North,55+,Morning
+CUST1641,Referral,142.41,0,West,35-44,Night
+CUST1642,Referral,44.36,0,West,35-44,Night
+CUST1643,Social Media,136.32,0,West,55+,Night
+CUST1644,Referral,194.13,0,North,45-54,Morning
+CUST1645,SMS,23.31,0,North,55+,Afternoon
+CUST1646,Social Media,136.16,1,Central,35-44,Evening
+CUST1647,Referral,91.53,1,South,45-54,Evening
+CUST1648,Email,174.29,0,South,18-24,Evening
+CUST1649,SMS,39.54,0,Central,55+,Night
+CUST1650,SMS,140.06,0,Central,55+,Morning
+CUST1651,SMS,168.43,0,West,45-54,Night
+CUST1652,Social Media,189.2,0,Central,18-24,Afternoon
+CUST1653,Referral,138.23,0,East,18-24,Morning
+CUST1654,Referral,101.95,0,South,45-54,Evening
+CUST1655,Email,125.48,1,Central,25-34,Night
+CUST1656,Email,174.44,0,East,55+,Night
+CUST1657,SMS,116.27,0,East,55+,Afternoon
+CUST1658,Email,10.93,0,East,35-44,Afternoon
+CUST1659,Social Media,186.53,0,East,45-54,Night
+CUST1660,Referral,139.46,0,West,35-44,Afternoon
+CUST1661,SMS,136.92,0,East,35-44,Evening
+CUST1662,Email,47.06,0,West,18-24,Afternoon
+CUST1663,Social Media,133.48,0,West,55+,Afternoon
+CUST1664,Social Media,81.8,1,East,35-44,Night
+CUST1665,Email,131.99,1,South,18-24,Night
+CUST1666,Referral,25.79,0,East,45-54,Morning
+CUST1667,Email,133.28,0,East,35-44,Morning
+CUST1668,SMS,199.89,0,East,55+,Night
+CUST1669,Email,14.4,0,South,35-44,Afternoon
+CUST1670,Social Media,195.55,0,North,45-54,Afternoon
+CUST1671,Email,84.35,0,North,35-44,Morning
+CUST1672,Referral,174.8,0,West,55+,Morning
+CUST1673,Search Ads,157.57,0,West,18-24,Morning
+CUST1674,Email,115.57,0,South,55+,Evening
+CUST1675,Referral,149.0,1,Central,18-24,Evening
+CUST1676,Referral,176.31,1,North,25-34,Morning
+CUST1677,Social Media,83.81,1,West,55+,Afternoon
+CUST1678,Referral,68.77,0,North,55+,Morning
+CUST1679,Referral,135.18,1,South,45-54,Evening
+CUST1680,Referral,162.53,0,South,35-44,Afternoon
+CUST1681,Referral,153.65,1,Central,18-24,Evening
+CUST1682,SMS,160.57,0,Central,18-24,Afternoon
+CUST1683,SMS,89.94,1,South,45-54,Evening
+CUST1684,Social Media,164.48,0,West,45-54,Afternoon
+CUST1685,Email,28.44,1,North,35-44,Afternoon
+CUST1686,Referral,111.18,1,East,35-44,Afternoon
+CUST1687,Email,6.12,0,Central,55+,Afternoon
+CUST1688,Email,68.29,0,East,25-34,Night
+CUST1689,Social Media,76.46,1,West,35-44,Evening
+CUST1690,Referral,82.25,0,Central,45-54,Evening
+CUST1691,Referral,140.62,1,East,35-44,Night
+CUST1692,Search Ads,80.77,0,West,18-24,Afternoon
+CUST1693,Email,92.5,0,North,25-34,Afternoon
+CUST1694,Email,51.32,0,West,55+,Evening
+CUST1695,SMS,77.78,0,Central,18-24,Night
+CUST1696,Search Ads,49.32,1,South,18-24,Afternoon
+CUST1697,SMS,19.27,0,North,25-34,Afternoon
+CUST1698,SMS,122.67,0,East,55+,Afternoon
+CUST1699,SMS,135.3,0,Central,45-54,Morning
+CUST1700,Social Media,125.8,0,South,55+,Night
+CUST1701,Social Media,95.38,1,West,35-44,Afternoon
+CUST1702,SMS,79.06,1,South,18-24,Morning
+CUST1703,Search Ads,173.35,0,Central,35-44,Night
+CUST1704,Email,106.22,1,Central,45-54,Afternoon
+CUST1705,Search Ads,98.44,1,South,35-44,Evening
+CUST1706,Referral,10.0,0,West,55+,Morning
+CUST1707,Social Media,71.54,1,South,35-44,Morning
+CUST1708,Email,79.14,0,Central,45-54,Afternoon
+CUST1709,Email,82.77,0,Central,45-54,Afternoon
+CUST1710,Referral,118.13,1,East,45-54,Morning
+CUST1711,Referral,109.05,0,East,55+,Evening
+CUST1712,SMS,123.54,1,North,45-54,Evening
+CUST1713,Social Media,154.15,1,Central,18-24,Night
+CUST1714,Social Media,163.53,0,East,45-54,Afternoon
+CUST1715,Search Ads,145.03,1,South,35-44,Evening
+CUST1716,SMS,191.33,0,West,35-44,Night
+CUST1717,SMS,8.56,0,South,35-44,Evening
+CUST1718,SMS,43.18,0,West,55+,Afternoon
+CUST1719,SMS,6.47,1,East,35-44,Night
+CUST1720,Social Media,131.26,0,North,55+,Night
+CUST1721,Social Media,180.12,0,South,55+,Night
+CUST1722,SMS,52.48,0,South,45-54,Evening
+CUST1723,Search Ads,185.77,1,South,18-24,Afternoon
+CUST1724,Email,16.75,0,West,45-54,Night
+CUST1725,Email,187.22,0,East,45-54,Morning
+CUST1726,Search Ads,73.57,0,South,55+,Afternoon
+CUST1727,SMS,24.78,0,South,55+,Morning
+CUST1728,Social Media,99.74,1,North,35-44,Morning
+CUST1729,Email,55.07,0,North,35-44,Night
+CUST1730,Referral,60.55,0,East,45-54,Night
+CUST1731,Referral,64.92,1,East,25-34,Evening
+CUST1732,Search Ads,161.59,0,Central,25-34,Evening
+CUST1733,SMS,110.14,1,North,35-44,Evening
+CUST1734,Email,65.71,0,Central,25-34,Afternoon
+CUST1735,SMS,124.02,1,West,35-44,Evening
+CUST1736,Email,144.65,0,Central,55+,Morning
+CUST1737,Search Ads,58.16,0,South,45-54,Evening
+CUST1738,Search Ads,85.64,1,Central,18-24,Night
+CUST1739,Referral,28.77,1,East,45-54,Evening
+CUST1740,SMS,40.32,1,West,35-44,Afternoon
+CUST1741,Referral,137.82,0,South,35-44,Afternoon
+CUST1742,SMS,40.38,1,Central,45-54,Morning
+CUST1743,Referral,107.41,1,West,35-44,Afternoon
+CUST1744,Social Media,143.26,0,West,25-34,Evening
+CUST1745,Social Media,25.84,1,South,25-34,Night
+CUST1746,Social Media,115.63,1,Central,35-44,Afternoon
+CUST1747,Social Media,55.03,0,West,35-44,Morning
+CUST1748,Email,192.77,0,West,25-34,Evening
+CUST1749,Social Media,99.29,0,North,35-44,Morning
+CUST1750,Search Ads,162.17,0,West,35-44,Afternoon
+CUST1751,Search Ads,112.29,0,North,45-54,Afternoon
+CUST1752,Email,13.47,0,Central,18-24,Morning
+CUST1753,Social Media,128.46,0,Central,25-34,Evening
+CUST1754,Social Media,190.52,0,Central,45-54,Afternoon
+CUST1755,Social Media,122.31,0,East,18-24,Night
+CUST1756,Referral,164.74,1,Central,35-44,Afternoon
+CUST1757,SMS,177.42,1,West,35-44,Evening
+CUST1758,Referral,49.48,0,South,45-54,Afternoon
+CUST1759,SMS,46.35,1,North,35-44,Morning
+CUST1760,Social Media,124.14,0,East,55+,Afternoon
+CUST1761,Social Media,85.15,0,Central,45-54,Afternoon
+CUST1762,Referral,168.77,0,Central,18-24,Evening
+CUST1763,Referral,180.5,0,South,45-54,Morning
+CUST1764,SMS,73.92,1,South,25-34,Evening
+CUST1765,Search Ads,51.19,1,East,45-54,Afternoon
+CUST1766,SMS,157.2,0,North,35-44,Night
+CUST1767,Referral,58.59,0,Central,35-44,Afternoon
+CUST1768,Referral,165.41,0,East,55+,Evening
+CUST1769,Email,87.63,0,West,55+,Night
+CUST1770,Referral,135.17,0,West,55+,Evening
+CUST1771,Email,23.63,0,East,18-24,Evening
+CUST1772,Search Ads,126.65,1,Central,55+,Morning
+CUST1773,SMS,93.09,1,East,18-24,Night
+CUST1774,SMS,119.39,0,Central,55+,Afternoon
+CUST1775,Email,37.76,1,South,18-24,Evening
+CUST1776,SMS,148.69,0,East,45-54,Afternoon
+CUST1777,Referral,173.25,0,Central,45-54,Morning
+CUST1778,Social Media,47.26,0,East,35-44,Morning
+CUST1779,Email,23.66,0,East,18-24,Night
+CUST1780,SMS,9.61,1,Central,25-34,Morning
+CUST1781,Email,130.18,0,Central,35-44,Morning
+CUST1782,Email,123.38,0,North,45-54,Afternoon
+CUST1783,Social Media,111.61,0,East,18-24,Morning
+CUST1784,Referral,50.23,0,West,55+,Morning
+CUST1785,Email,81.23,1,East,25-34,Evening
+CUST1786,SMS,120.92,0,East,45-54,Morning
+CUST1787,Search Ads,101.87,0,Central,35-44,Evening
+CUST1788,Email,197.62,0,East,18-24,Morning
+CUST1789,Email,31.61,0,East,25-34,Morning
+CUST1790,Social Media,140.55,0,West,18-24,Night
+CUST1791,Referral,83.84,0,Central,55+,Night
+CUST1792,Search Ads,88.5,0,East,35-44,Evening
+CUST1793,SMS,144.93,1,South,18-24,Morning
+CUST1794,Search Ads,140.03,1,North,45-54,Afternoon
+CUST1795,SMS,198.29,1,West,35-44,Night
+CUST1796,Referral,30.04,0,East,45-54,Afternoon
+CUST1797,SMS,25.3,0,South,18-24,Night
+CUST1798,Social Media,146.25,0,East,35-44,Night
+CUST1799,Social Media,117.79,1,East,45-54,Morning
+CUST1800,Social Media,58.46,0,Central,55+,Night
+CUST1801,Social Media,20.49,0,Central,55+,Afternoon
+CUST1802,Search Ads,21.7,0,Central,18-24,Night
+CUST1803,Referral,179.37,0,South,35-44,Evening
+CUST1804,SMS,42.41,0,East,25-34,Morning
+CUST1805,SMS,68.06,0,North,35-44,Morning
+CUST1806,Social Media,49.2,1,West,55+,Evening
+CUST1807,Social Media,74.22,0,Central,45-54,Evening
+CUST1808,Email,18.54,0,Central,25-34,Evening
+CUST1809,Referral,106.22,0,East,18-24,Night
+CUST1810,Search Ads,18.18,0,East,25-34,Morning
+CUST1811,SMS,161.07,0,South,18-24,Evening
+CUST1812,Email,50.57,1,South,25-34,Night
+CUST1813,Email,110.3,0,Central,18-24,Evening
+CUST1814,SMS,176.62,1,East,18-24,Afternoon
+CUST1815,Search Ads,131.92,0,North,25-34,Afternoon
+CUST1816,Email,108.93,0,West,25-34,Morning
+CUST1817,Email,68.25,1,East,18-24,Night
+CUST1818,Referral,69.94,0,East,55+,Afternoon
+CUST1819,Search Ads,135.55,0,South,25-34,Afternoon
+CUST1820,Email,198.86,0,West,35-44,Night
+CUST1821,Search Ads,134.06,0,Central,45-54,Evening
+CUST1822,SMS,113.77,1,East,18-24,Night
+CUST1823,Social Media,147.48,0,Central,18-24,Evening
+CUST1824,Email,95.72,1,East,45-54,Afternoon
+CUST1825,Referral,16.73,1,Central,55+,Afternoon
+CUST1826,SMS,114.65,0,West,45-54,Afternoon
+CUST1827,Search Ads,191.74,1,South,25-34,Morning
+CUST1828,SMS,39.18,0,West,45-54,Morning
+CUST1829,Email,139.55,1,North,18-24,Morning
+CUST1830,Search Ads,44.18,0,South,45-54,Night
+CUST1831,Social Media,109.49,0,West,35-44,Afternoon
+CUST1832,SMS,23.85,0,North,25-34,Afternoon
+CUST1833,Email,92.82,0,East,45-54,Night
+CUST1834,Referral,152.45,0,East,18-24,Morning
+CUST1835,Search Ads,72.78,1,Central,25-34,Night
+CUST1836,SMS,134.66,0,South,18-24,Morning
+CUST1837,SMS,160.11,0,East,55+,Afternoon
+CUST1838,Social Media,185.8,1,South,35-44,Evening
+CUST1839,Social Media,50.76,0,East,55+,Morning
+CUST1840,Referral,82.87,1,Central,35-44,Afternoon
+CUST1841,Referral,34.72,1,West,45-54,Afternoon
+CUST1842,Email,198.53,1,Central,25-34,Evening
+CUST1843,Email,185.77,1,North,45-54,Afternoon
+CUST1844,Referral,110.29,0,East,35-44,Afternoon
+CUST1845,Referral,169.2,0,North,35-44,Morning
+CUST1846,Search Ads,106.59,1,North,35-44,Morning
+CUST1847,Social Media,126.6,0,South,18-24,Evening
+CUST1848,Email,22.38,0,East,25-34,Evening
+CUST1849,Social Media,152.28,0,North,45-54,Afternoon
+CUST1850,Social Media,29.9,1,West,45-54,Morning
+CUST1851,Referral,166.08,0,North,55+,Evening
+CUST1852,Search Ads,157.5,0,West,35-44,Evening
+CUST1853,SMS,143.21,0,South,35-44,Night
+CUST1854,Search Ads,12.05,0,North,35-44,Evening
+CUST1855,Search Ads,64.11,0,Central,45-54,Afternoon
+CUST1856,Social Media,56.31,0,South,55+,Morning
+CUST1857,Search Ads,75.23,0,West,18-24,Evening
+CUST1858,Email,22.09,1,South,25-34,Night
+CUST1859,Social Media,187.71,0,North,18-24,Morning
+CUST1860,Email,112.99,1,East,45-54,Evening
+CUST1861,SMS,64.58,1,East,35-44,Night
+CUST1862,Social Media,82.41,0,West,25-34,Evening
+CUST1863,SMS,92.2,0,West,45-54,Morning
+CUST1864,Social Media,122.12,0,East,45-54,Morning
+CUST1865,Referral,105.56,1,West,45-54,Morning
+CUST1866,Search Ads,184.28,0,South,25-34,Afternoon
+CUST1867,Referral,101.91,0,Central,25-34,Evening
+CUST1868,SMS,198.47,0,Central,55+,Afternoon
+CUST1869,Search Ads,171.03,0,South,55+,Morning
+CUST1870,Social Media,45.66,0,Central,18-24,Night
+CUST1871,Search Ads,186.47,0,North,25-34,Evening
+CUST1872,Email,27.69,1,South,25-34,Afternoon
+CUST1873,Search Ads,164.4,0,West,25-34,Evening
+CUST1874,Email,79.22,0,South,55+,Night
+CUST1875,Search Ads,176.2,0,East,45-54,Afternoon
+CUST1876,Email,174.27,1,West,35-44,Morning
+CUST1877,SMS,162.16,0,East,55+,Afternoon
+CUST1878,Referral,159.06,1,West,25-34,Evening
+CUST1879,Social Media,64.41,0,Central,55+,Evening
+CUST1880,Search Ads,20.78,0,South,18-24,Evening
+CUST1881,Referral,83.58,0,North,25-34,Evening
+CUST1882,Social Media,38.84,0,West,18-24,Morning
+CUST1883,Social Media,140.52,0,West,25-34,Afternoon
+CUST1884,Email,72.49,0,East,55+,Morning
+CUST1885,SMS,195.24,1,Central,45-54,Morning
+CUST1886,SMS,129.99,0,East,35-44,Morning
+CUST1887,Referral,165.38,0,East,18-24,Evening
+CUST1888,SMS,30.84,0,Central,55+,Evening
+CUST1889,Search Ads,173.09,0,North,45-54,Evening
+CUST1890,SMS,184.94,0,East,55+,Afternoon
+CUST1891,Referral,99.98,0,East,18-24,Night
+CUST1892,SMS,123.22,0,West,35-44,Evening
+CUST1893,Search Ads,154.14,0,Central,55+,Afternoon
+CUST1894,Email,39.09,0,South,25-34,Evening
+CUST1895,Referral,103.0,0,North,45-54,Evening
+CUST1896,Email,82.74,0,North,55+,Morning
+CUST1897,Email,33.54,0,Central,45-54,Morning
+CUST1898,Email,76.67,1,West,25-34,Morning
+CUST1899,Social Media,18.29,0,West,35-44,Afternoon
+CUST1900,Social Media,10.03,0,Central,35-44,Night
+CUST1901,Email,31.36,0,West,25-34,Night
+CUST1902,Referral,192.81,1,North,45-54,Afternoon
+CUST1903,Search Ads,112.16,1,North,55+,Evening
+CUST1904,Search Ads,193.34,0,South,25-34,Afternoon
+CUST1905,SMS,89.34,1,Central,18-24,Evening
+CUST1906,Referral,65.8,0,East,45-54,Afternoon
+CUST1907,Social Media,103.7,0,East,35-44,Afternoon
+CUST1908,Email,90.7,1,South,25-34,Afternoon
+CUST1909,SMS,25.6,1,South,35-44,Night
+CUST1910,Search Ads,129.96,0,West,45-54,Morning
+CUST1911,Social Media,47.13,0,South,35-44,Afternoon
+CUST1912,Social Media,125.82,0,South,25-34,Night
+CUST1913,Email,131.79,0,East,45-54,Morning
+CUST1914,Search Ads,34.64,1,West,18-24,Morning
+CUST1915,Referral,16.96,0,South,25-34,Afternoon
+CUST1916,Social Media,157.25,0,South,55+,Evening
+CUST1917,Email,94.66,0,West,25-34,Evening
+CUST1918,Referral,16.34,0,Central,45-54,Evening
+CUST1919,Search Ads,199.0,0,West,25-34,Afternoon
+CUST1920,Social Media,16.27,0,East,18-24,Evening
+CUST1921,Referral,140.53,1,Central,18-24,Night
+CUST1922,Referral,196.82,1,North,55+,Night
+CUST1923,Referral,51.64,0,West,35-44,Night
+CUST1924,Social Media,32.74,1,East,45-54,Night
+CUST1925,Social Media,28.67,1,Central,45-54,Morning
+CUST1926,SMS,64.14,1,West,35-44,Night
+CUST1927,Search Ads,24.7,0,South,18-24,Evening
+CUST1928,Email,139.97,0,West,18-24,Afternoon
+CUST1929,Referral,17.15,0,North,25-34,Evening
+CUST1930,SMS,104.34,0,West,55+,Night
+CUST1931,Email,199.36,0,Central,55+,Morning
+CUST1932,SMS,163.72,0,Central,55+,Night
+CUST1933,Social Media,124.97,0,West,25-34,Afternoon
+CUST1934,Referral,64.72,1,Central,55+,Evening
+CUST1935,Email,126.66,0,South,35-44,Afternoon
+CUST1936,Email,107.77,0,West,25-34,Afternoon
+CUST1937,Email,88.09,1,South,35-44,Afternoon
+CUST1938,Email,30.49,1,South,25-34,Evening
+CUST1939,Email,177.89,1,East,55+,Night
+CUST1940,SMS,92.71,1,West,35-44,Afternoon
+CUST1941,Referral,42.95,0,Central,35-44,Evening
+CUST1942,Social Media,76.71,1,South,35-44,Morning
+CUST1943,Social Media,85.76,0,East,25-34,Evening
+CUST1944,Social Media,166.37,0,West,45-54,Morning
+CUST1945,Social Media,148.05,0,West,55+,Evening
+CUST1946,SMS,155.01,0,North,35-44,Night
+CUST1947,Search Ads,7.15,0,North,45-54,Afternoon
+CUST1948,Referral,86.15,0,South,55+,Night
+CUST1949,Email,98.86,1,North,55+,Evening
+CUST1950,Search Ads,8.74,0,South,35-44,Afternoon
+CUST1951,Social Media,55.66,0,Central,35-44,Morning
+CUST1952,Search Ads,153.26,1,South,25-34,Evening
+CUST1953,Referral,31.74,0,North,45-54,Afternoon
+CUST1954,Email,109.39,0,Central,45-54,Morning
+CUST1955,Email,46.96,0,North,35-44,Morning
+CUST1956,Referral,7.36,0,South,55+,Night
+CUST1957,Referral,52.03,0,East,35-44,Evening
+CUST1958,Social Media,195.3,1,West,55+,Morning
+CUST1959,Email,161.3,0,North,55+,Afternoon
+CUST1960,Search Ads,192.12,0,South,35-44,Morning
+CUST1961,SMS,100.13,1,Central,18-24,Morning
+CUST1962,SMS,26.4,1,North,45-54,Night
+CUST1963,Referral,111.85,0,North,55+,Night
+CUST1964,Social Media,93.6,0,West,55+,Afternoon
+CUST1965,SMS,169.65,0,South,18-24,Night
+CUST1966,Email,24.13,0,East,25-34,Morning
+CUST1967,Referral,100.21,0,Central,18-24,Morning
+CUST1968,Search Ads,34.26,0,South,18-24,Night
+CUST1969,Referral,68.31,1,Central,55+,Morning
+CUST1970,Search Ads,148.78,0,North,45-54,Morning
+CUST1971,Referral,97.82,0,West,18-24,Afternoon
+CUST1972,Referral,78.3,0,West,25-34,Night
+CUST1973,Referral,81.92,0,East,35-44,Morning
+CUST1974,Search Ads,94.59,0,West,18-24,Night
+CUST1975,Search Ads,158.08,0,North,18-24,Afternoon
+CUST1976,Referral,178.96,1,East,25-34,Night
+CUST1977,SMS,191.29,0,South,45-54,Morning
+CUST1978,Social Media,158.45,0,West,18-24,Night
+CUST1979,Social Media,66.5,0,East,18-24,Morning
+CUST1980,Social Media,139.19,0,North,45-54,Morning
+CUST1981,Search Ads,90.33,0,Central,25-34,Morning
+CUST1982,Search Ads,54.66,0,Central,18-24,Afternoon
+CUST1983,SMS,168.97,0,North,45-54,Night
+CUST1984,Social Media,12.49,0,North,18-24,Afternoon
+CUST1985,Social Media,180.84,1,Central,35-44,Night
+CUST1986,Referral,94.99,1,East,55+,Afternoon
+CUST1987,Search Ads,129.25,1,Central,35-44,Evening
+CUST1988,Social Media,133.57,1,North,18-24,Morning
+CUST1989,SMS,179.55,0,West,25-34,Morning
+CUST1990,SMS,129.15,1,South,55+,Afternoon
+CUST1991,Social Media,124.72,0,West,35-44,Evening
+CUST1992,Search Ads,18.0,1,West,45-54,Morning
+CUST1993,SMS,106.09,1,North,25-34,Night
+CUST1994,Referral,34.28,1,Central,35-44,Afternoon
+CUST1995,SMS,148.8,1,East,45-54,Morning
+CUST1996,Email,104.88,0,West,18-24,Morning
+CUST1997,Email,137.64,0,Central,45-54,Afternoon
+CUST1998,Search Ads,13.13,0,East,35-44,Afternoon
+CUST1999,Social Media,21.53,0,West,35-44,Night
